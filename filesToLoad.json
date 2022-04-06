@@ -1,0 +1,23 @@
+{
+    "title": "Test Workshop  material preparation",
+    "githubLoc": "https://raw.githubusercontent.com/LBeSTM/stm32_material_preparation/master",
+    "options": {
+      "allowMenu": true,
+      "allowTagSelect": false
+    },
+    "filesToLoadArr": [
+        {
+          "name": "My web page",
+          "path": "",
+          "file": "test.md"
+        }
+      ],
+    "menuStructure": [
+        {
+            "name": "My test page",
+            "type": "File",
+            "file": "test.md"
+        }
+    ]
+} 
+
