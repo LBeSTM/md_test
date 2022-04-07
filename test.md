@@ -23,7 +23,7 @@ uint8_t buffer[SIZE];
 
 ```
 
-Remove space before-nc
+**Remove space before-nc**
 
 ```c-nc
 uint8_t buffer[SIZE];
@@ -38,3 +38,23 @@ buffer = "1234";
 uint32_t buffer[SIZE];
 buffer  ="1234";
 ``` 
+![test image](img/capture.gif)
+
+[Link](www.st.com)
+
+<ainfo>
+Essai color infor
+</ainfo>
+
+<aerror>
+red box with error
+</aerror>
+
+<asuccess>
+green box with success
+</asuccess>
+
+<awarning>
+orange box with warning
+</awarning>
+
