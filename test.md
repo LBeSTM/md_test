@@ -23,9 +23,9 @@ uint8_t buffer[SIZE];
 
 ```
 
-With the changes to remove the -nc
+Restore the -nc
 
-```c
+```c -nc
 uint8_t buffer[SIZE];
 ```
 
@@ -34,7 +34,7 @@ uint8_t buffer[SIZE];
 buffer = "1234";
 ```
 
-```c
+```c -nc
 uint32_t buffer[SIZE];
 buffer  ="1234";
 ``` 
