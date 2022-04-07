@@ -40,10 +40,11 @@ buffer  ="1234";
 ``` 
 ![test image](img/capture.gif)
 
-[Link](www.st.com)
+Change the link
+[ST website](http://www.st.com/stm32u5)
 
 <ainfo>
-Essai color infor
+Essai color info blue 
 </ainfo>
 
 <aerror>
