@@ -23,9 +23,9 @@ uint8_t buffer[SIZE];
 
 ```
 
-Restore the -nc
+Remove space before-nc
 
-```c -nc
+```c-nc
 uint8_t buffer[SIZE];
 ```
 
@@ -34,7 +34,7 @@ uint8_t buffer[SIZE];
 buffer = "1234";
 ```
 
-```c -nc
+```c-nc
 uint32_t buffer[SIZE];
 buffer  ="1234";
 ``` 
