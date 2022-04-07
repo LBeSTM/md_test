@@ -23,22 +23,18 @@ uint8_t buffer[SIZE];
 
 ```
 
-```c
 
+
+```c -nc
+uint8_t buffer[SIZE];
+```
+
+```c
 uint8_t buffer[SIZE];
 buffer = "1234";
-
 ```
 
 ```c -nc
-
-uint8_t buffer[SIZE];
-
-```
-
-```c -nc
-
 uint32_t buffer[SIZE];
 buffer  ="1234";
-
 ``` 
