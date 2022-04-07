@@ -23,7 +23,7 @@ uint8_t buffer[SIZE];
 
 ```
 
-
+With the changes to remove the -nc
 
 ```c
 uint8_t buffer[SIZE];
